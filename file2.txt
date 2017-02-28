@@ -1,1 +1,3 @@
 First line of file 02
+
+SECOND LINE IT IS..
